@@ -4,7 +4,7 @@ import numpy as np
 
 style.use('ggplot')
 
-z,x,y = np.loadtxt('input.csv', unpack = True, delimiter = ';')
+z,x,y = np.loadtxt('out.csv', unpack = True, delimiter = ';')
 
 plt.plot(z,x,label= 'School multiplication');
 plt.plot(z,y,label= 'Divide-and-Conquer multiplication');
