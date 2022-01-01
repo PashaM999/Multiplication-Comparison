@@ -5,4 +5,4 @@ Custom classes were defined for ease of application.
 
 Here is the result:
 
-![graph] (https://github.com/PashaM999/Multiplication-Comparison/blob/master/Graph/Graph.PNG)
+![graph](https://github.com/PashaM999/Multiplication-Comparison/blob/master/Graph/Graph.PNG)
